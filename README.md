@@ -1,5 +1,5 @@
 # Spring Boot Project - Undefined
-스프링 부트와 공공 데이터 API를 활용한 개발자 커뮤니티 사이트([바로가기](https://www.undefined-project.com))
+스프링 부트와 공공 데이터 API를 활용한 개발자 커뮤니티 사이트([바로가기](https://www.undefined-project.com)) [현재 배포 중단]
 
 
 ## 프로젝트 개요
@@ -17,7 +17,7 @@
 * Language : Java, HTML, CSS, Bootstrap, JQuery, Javascript
 * VCS : Git, Github
 * 배포 : EC2, RDS
-* ETC : Thymeleaf, Ouath2, OpenAI, ZEGO Cloud, Youtube API, Naver API, 공공 데이터 포털 API
+* ETC : Thymeleaf, OAuth2, OpenAI, ZEGO Cloud, Youtube API, Naver API, 공공 데이터 포털 API
 
 
 ## 프로젝트 참여자 및 기여도
